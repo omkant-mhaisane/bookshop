@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "The Enchanted Forest",
+    "price": 0,
+    "category": "Free",
+    "image": "https://images.nightcafe.studio/jobs/Q3PgLWRtsQnVS8b1WvzZ/Q3PgLWRtsQnVS8b1WvzZ--1--n9h6a.jpg?tr=w-750,c-at_max"
+  },
+  {
+    "id": 2,
+    "name": "Songbook",
+    "title": "Melodies of the Heart",
+    "price": 0,
+    "category": "Free",
+    "image": "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/645bab001cfce5001d87dfc5.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Poetry",
+    "title": "Whispers in the Wind",
+    "price": 0,
+    "category": "Free",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ37yeZ63GJ9gsv2AM1iGHgVCM9oLi5itbYB1JmGtbDPhjnD2GBbbHbexjrXfheinYOyHQ&usqp=CAU"
+  },
+  {
+    "id": 4,
+    "name": "Cookbook",
+    "title": "The Gourmet's Guide to Easy Cooking",
+    "price": 0,
+    "category": "Free",
+    "image": "https://cdn.loveandlemons.com/wp-content/uploads/2023/01/IMG_41325-2.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Travel Guide",
+    "title": "Wanderlust: A Traveler's Companion",
+    "price": 0,
+    "category": "Free",
+    "image": "https://studyworkgrow.com.au/wp-content/uploads/2021/11/Tour-Guide-021221.png"
+  },
+  {
+    "id": 6,
+    "name": "Mystery",
+    "title": "The Case of the Vanishing Jewel",
+    "price": 0,
+    "category": "Free",
+    "image": "https://celadonbooks.com/wp-content/uploads/2020/03/what-is-a-mystery.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Children's Book",
+    "title": "Adventures of the Tiny Explorer",
+    "price": 0,
+    "category": "Free",
+    "image": "https://us.123rf.com/450wm/kantyasmiley/kantyasmiley2308/kantyasmiley230801269/210439560-school-kids-sitting-on-table-and-reading-book-two-boy-kid-with-glasses-sit-on-table-and-reading-tale.jpg?ver=6"
+  },
+  {
+    "id": 8,
+    "name": "Fantasy",
+    "title": "The Dragon's Secret",
+    "price": 0,
+    "category": "Free",
+    "image": "https://i.etsystatic.com/39582183/r/il/45396c/4881629201/il_570xN.4881629201_oksp.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Self-Help",
+    "title": "Unlock Your Potential",
+    "price": 0,
+    "category": "Free",
+    "image": "https://sunsetcommunitycounseling.com/wp-content/uploads/2018/12/self_help.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Historical Fiction",
+    "title": "The Forgotten Kingdom",
+    "price": 0,
+    "category": "Free",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPQ1chy7_hpDIU67pz9rJ5cf9YYl2cDz_A_yX8jndu70NSWMJ4LbbIAQ5KvQJbW_om0W4&usqp=CAU"
+  }
+]
